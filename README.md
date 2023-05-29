@@ -30,8 +30,8 @@
 </div><br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/thegoldengames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thegoldengames" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juanjoseduranrincon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanjoseduranrincon" height="30" width="40" /></a>
+<a href="https://twitter.com/TFredCreations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thegoldengames" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/JuanJoseDuranRinconTCreations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanjoseduranrincon" height="30" width="40" /></a>
 <a href="https://instagram.com/thegoldengames.f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thegoldengames.f" height="30" width="40" /></a>
 <a href="https://discord.gg/TheGoldenGames#9450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TheGoldenGames#9450" height="30" width="40" /></a>
 </p>
