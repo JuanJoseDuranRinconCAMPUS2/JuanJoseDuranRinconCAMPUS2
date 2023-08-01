@@ -13,7 +13,9 @@
 </div>
 
 ###
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseDuranRinconCAMPUS2&theme=Radical&hide_border=false"  />
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanJoseDuranRinconCAMPUS2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanJoseDuranRinconCAMPUS2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
@@ -125,15 +127,22 @@
 
 <div align="left">
 </div>
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nfs4wgo25mwwqjupvlbyeslhfi&count=6" alt="Alt text">
+</p>
 
 ###
 
-<img align="left" height="200" src="https://thumbs.gfycat.com/ShadowyForkedGrosbeak-max-1mb.gif"  />
+<img align="left" height="200" src="https://thumbs.gfycat.com/GlossyMeanHarrier-max-1mb.gif"  />
 
 ###
 
-<img align="right" height="200" src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/90485f2feda41c3.png"  />
+<img align="right" height="200" src="https://cdna.artstation.com/p/assets/images/images/054/753/166/original/daniel-felipe-pinilla-camacho-gatite-2.gif?1665299008&dl=1"/>
 
 ###
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/WPqFfKvgIbUAAAAd/stars-train.gif"  />
+</div>
 
 ###
